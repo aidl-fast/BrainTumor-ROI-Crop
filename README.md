@@ -23,16 +23,16 @@ This script performs the preprocessing of a Brain Tumor MRI dataset by identifyi
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/hasannasirkhan/BrainTumor-ROI-Crop.git
+   git clone https://github.com/aidl-fast/BrainTumor-ROI-Crop.git
 
-2. Organize your dataset in the specified structure (see Dataset Structure).
+2. Organize your dataset in the specified structure.
 
 3. Update the paths in the script to match your dataset and desired output folder.
 
 4. Run the script:
 
-python preprocess.py
-
+   ```sh
+   python preprocess.py
 
 ## Results
 
